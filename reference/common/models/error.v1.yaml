@@ -1,7 +1,8 @@
 $schema: 'http://json-schema.org/draft-04/schema#'
 title: Error
 type: object
-description: A standard error object.
+description: |
+  feat2 change
 x-tags:
   - Common
 properties:
