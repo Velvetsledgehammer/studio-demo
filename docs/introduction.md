@@ -2,7 +2,7 @@
 tags: [00. Welcome]
 ---
 
-# Introduction
+# New Introduction
 
 Studio is our next generation app for API design, modeling, and technical writing. 
 
